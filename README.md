@@ -17,7 +17,7 @@ interest : Frontend · Data · Science
 
 ### `> projects.exe`
 
-#### 🪐 Planet Keeper
+#### 🪐 [Planet Keeper](https://github.com/minjeong-kk/planet-keeper)
 **Interactive Climate Education Simulation**
 
 고등학생을 대상으로 한 참여형 기후 교육 시뮬레이션 게임입니다.  
@@ -27,7 +27,7 @@ interest : Frontend · Data · Science
 
 <br>
 
-#### 📡 Team NULL
+#### 📡 [Team NULL](https://github.com/KadenID/OSBP_Team_NULL.git)
 **Personalized LMS Assignment Hub**
 
 과제, 공지, 알림을 한곳에서 관리할 수 있도록 구성한 대학생 대상 LMS 통합 서비스입니다.
