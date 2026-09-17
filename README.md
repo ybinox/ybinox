@@ -9,6 +9,7 @@
 ```txt
 name     : Yebin Kim
 major    : Astronomy
+minor    : Computer Engineering
 interest : Frontend · Data · Science
 ```
 
@@ -36,7 +37,3 @@ interest : Frontend · Data · Science
 <br>
 
 ---
-
-<p align="center">
-  <sub>same sky, different perspective.</sub>
-</p>
